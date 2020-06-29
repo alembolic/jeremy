@@ -1,0 +1,4 @@
+search.services.mozilla.com:HSTS	0	18441	1624896835062,1,0,2
+firefox.settings.services.mozilla.com:HSTS	0	18441	1624896838531,1,0,2
+location.services.mozilla.com:HSTS	0	18441	1624896834138,1,1,2
+shavar.services.mozilla.com^firstPartyDomain=safebrowsing.86868755-6b82-4842-b301-72671a0db32e.mozilla:HSTS	0	18441	1624896838538,1,1,2

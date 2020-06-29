@@ -1,0 +1,500 @@
+Xsession: X session started for kali at Sun 28 Jun 2020 12:11:12 PM EDT
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting XAUTHORITY=/home/kali/.Xauthority
+localuser:kali being added to access control list
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting USER=kali
+dbus-update-activation-environment: setting XDG_SESSION_TYPE=x11
+dbus-update-activation-environment: setting HOME=/home/kali
+dbus-update-activation-environment: setting DESKTOP_SESSION=lightdm-xsession
+dbus-update-activation-environment: setting XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting QT_QPA_PLATFORMTHEME=qt5ct
+dbus-update-activation-environment: setting LOGNAME=kali
+dbus-update-activation-environment: setting QT_AUTO_SCREEN_SCALE_FACTOR=0
+dbus-update-activation-environment: setting XDG_SESSION_CLASS=user
+dbus-update-activation-environment: setting PATH=/usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games
+dbus-update-activation-environment: setting GDM_LANG=en_US.utf8
+dbus-update-activation-environment: setting _JAVA_OPTIONS=-Dawt.useSystemAAFontSettings=on -Dswing.aatext=true
+dbus-update-activation-environment: setting XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0
+dbus-update-activation-environment: setting XDG_RUNTIME_DIR=/run/user/1000
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting LANG=en_US.UTF-8
+dbus-update-activation-environment: setting XDG_SESSION_DESKTOP=lightdm-xsession
+dbus-update-activation-environment: setting XAUTHORITY=/home/kali/.Xauthority
+dbus-update-activation-environment: setting XDG_GREETER_DATA_DIR=/var/lib/lightdm/data/kali
+dbus-update-activation-environment: setting SHELL=/bin/bash
+dbus-update-activation-environment: setting GDMSESSION=lightdm-xsession
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1
+dbus-update-activation-environment: setting PWD=/home/kali
+dbus-update-activation-environment: setting XDG_DATA_DIRS=/usr/share/xfce4:/usr/local/share/:/usr/share/
+/usr/bin/x-session-manager: X server already running on display :0
+xfce4-session-Message: 12:11:13.203: SSH authentication agent is already running
+gpg-agent[947]: WARNING: "--write-env-file" is an obsolete option - it has no effect
+gpg-agent: a gpg-agent is already running - not starting a new one
+
+(xfce4-session:888): xfce4-session-WARNING **: 12:11:13.223: gpg-agent returned no PID in the variables
+
+(xfwm4:950): xfwm4-WARNING **: 12:11:14.229: Unsupported GL renderer (llvmpipe (LLVM 9.0.1, 128 bits)).
+
+(wrapper-2.0:1013): Gtk-WARNING **: 12:11:17.028: Negative content width -1 (allocation 1, extents 1x1) while allocating gadget (node button, owner GtkToggleButton)
+
+** (wrapper-2.0:1035): WARNING **: 12:11:17.209: No outputs have backlight property
+
+(wrapper-2.0:1034): GLib-GIO-CRITICAL **: 12:11:17.238: g_file_new_for_path: assertion 'path != NULL' failed
+
+(wrapper-2.0:1034): GLib-GIO-CRITICAL **: 12:11:17.239: g_file_monitor_file: assertion 'G_IS_FILE (file)' failed
+
+(wrapper-2.0:1034): GLib-GObject-WARNING **: 12:11:17.239: invalid (NULL) pointer instance
+
+(wrapper-2.0:1034): GLib-GObject-CRITICAL **: 12:11:17.239: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(wrapper-2.0:1034): Gtk-WARNING **: 12:11:17.239: Attempting to add a widget with type GtkToggleButton to a container of type XfcePanelPlugin, but the widget is already inside a container of type XfcePanelPlugin, please remove the widget from its existing container first.
+
+(wrapper-2.0:1034): Gtk-WARNING **: 12:11:17.491: Negative content width -1 (allocation 1, extents 1x1) while allocating gadget (node button, owner GtkToggleButton)
+
+(wrapper-2.0:1035): Gtk-WARNING **: 12:11:17.813: Negative content width -1 (allocation 1, extents 1x1) while allocating gadget (node button, owner PowerManagerButton)
+
+(wrapper-2.0:1032): Gtk-WARNING **: 12:11:18.334: Negative content width -1 (allocation 1, extents 1x1) while allocating gadget (node button, owner PulseaudioButton)
+
+(vmware-user:1063): Gtk-WARNING **: 12:11:19.222: gtk_disable_setlocale() must be called before gtk_init()
+
+** (xiccd:1092): WARNING **: 12:11:19.992: EDID is empty
+blueman-applet version 2.1.2 starting
+There is an instance already running
+
+** (xiccd:1092): WARNING **: 12:11:23.167: EDID is empty
+
+** (xiccd:1092): WARNING **: 12:11:23.230: EDID is empty
+
+** (xiccd:1092): WARNING **: 12:11:43.228: EDID is empty
+
+** (xiccd:1092): WARNING **: 12:11:43.278: EDID is empty
+qt5ct: using qt5ct plugin
+Properties constructor called
+TRANSLATIONS_DIR: Loading translation file "qterminal_en_US.qm" from dir /usr/share/qterminal/translations
+load success: false
+qt5ct: D-Bus global menu: no
+Canot open file "/home/kali/.config/qterminal.org/qterminal_bookmarks.xml"
+Trying to load translation file from dir "/usr/share/xfce4"
+Trying to load translation file from dir "/usr/local/share/"
+Trying to load translation file from dir "/usr/share/"
+Trying to load translation file from dir "/usr/share"
+Trying to load translation file from dir "/usr/share/qtermwidget5/translations"
+default KB_LAYOUT_DIR:  "/usr/share/qtermwidget5/kb-layouts"
+loadAllColorSchemes
+Using a variable-width font in the terminal.  This may cause performance degradation and display/alignment errors.
+Shell program: "/usr/share/kali-menu/exec-in-shell hashcat --help"
+("/usr/share/kali-menu/exec-in-shell", "hashcat", "--help")
+Using a variable-width font in the terminal.  This may cause performance degradation and display/alignment errors.
+Properties destructor called
+Sandbox: seccomp sandbox violation: pid 1294, tid 1294, syscall 315, args 1294 140210367478144 56 0 23 140210367478144.
+Sandbox: seccomp sandbox violation: pid 1318, tid 1318, syscall 315, args 1318 140032002422912 56 0 28 140032002422912.
+qt5ct: using qt5ct plugin
+Properties constructor called
+TRANSLATIONS_DIR: Loading translation file "qterminal_en_US.qm" from dir /usr/share/qterminal/translations
+load success: false
+qt5ct: D-Bus global menu: no
+Canot open file "/home/kali/.config/qterminal.org/qterminal_bookmarks.xml"
+Trying to load translation file from dir "/usr/share/xfce4"
+Trying to load translation file from dir "/usr/local/share/"
+Trying to load translation file from dir "/usr/share/"
+Trying to load translation file from dir "/usr/share"
+Trying to load translation file from dir "/usr/share/qtermwidget5/translations"
+default KB_LAYOUT_DIR:  "/usr/share/qtermwidget5/kb-layouts"
+loadAllColorSchemes
+Using a variable-width font in the terminal.  This may cause performance degradation and display/alignment errors.
+Shell program: "/bin/bash"
+("/bin/bash")
+Using a variable-width font in the terminal.  This may cause performance degradation and display/alignment errors.
+Properties destructor called
+qt5ct: using qt5ct plugin
+Properties constructor called
+TRANSLATIONS_DIR: Loading translation file "qterminal_en_US.qm" from dir /usr/share/qterminal/translations
+load success: false
+qt5ct: D-Bus global menu: no
+Canot open file "/home/kali/.config/qterminal.org/qterminal_bookmarks.xml"
+Trying to load translation file from dir "/usr/share/xfce4"
+Trying to load translation file from dir "/usr/local/share/"
+Trying to load translation file from dir "/usr/share/"
+Trying to load translation file from dir "/usr/share"
+Trying to load translation file from dir "/usr/share/qtermwidget5/translations"
+default KB_LAYOUT_DIR:  "/usr/share/qtermwidget5/kb-layouts"
+loadAllColorSchemes
+Using a variable-width font in the terminal.  This may cause performance degradation and display/alignment errors.
+Shell program: "/bin/bash"
+("/bin/bash")
+Using a variable-width font in the terminal.  This may cause performance degradation and display/alignment errors.
+Properties destructor called
+qt5ct: using qt5ct plugin
+Properties constructor called
+TRANSLATIONS_DIR: Loading translation file "qterminal_en_US.qm" from dir /usr/share/qterminal/translations
+load success: false
+qt5ct: D-Bus global menu: no
+Canot open file "/home/kali/.config/qterminal.org/qterminal_bookmarks.xml"
+Trying to load translation file from dir "/usr/share/xfce4"
+Trying to load translation file from dir "/usr/local/share/"
+Trying to load translation file from dir "/usr/share/"
+Trying to load translation file from dir "/usr/share"
+Trying to load translation file from dir "/usr/share/qtermwidget5/translations"
+default KB_LAYOUT_DIR:  "/usr/share/qtermwidget5/kb-layouts"
+loadAllColorSchemes
+Using a variable-width font in the terminal.  This may cause performance degradation and display/alignment errors.
+Shell program: "/bin/bash"
+("/bin/bash")
+Using a variable-width font in the terminal.  This may cause performance degradation and display/alignment errors.
+
+(xfce4-keyboard-settings:1715): Gtk-CRITICAL **: 12:35:24.574: gtk_widget_grab_default: assertion 'gtk_widget_get_can_default (widget)' failed
+qt5ct: using qt5ct plugin
+Properties constructor called
+TRANSLATIONS_DIR: Loading translation file "qterminal_en_US.qm" from dir /usr/share/qterminal/translations
+load success: false
+qt5ct: D-Bus global menu: no
+Canot open file "/home/kali/.config/qterminal.org/qterminal_bookmarks.xml"
+Trying to load translation file from dir "/usr/share/xfce4"
+Trying to load translation file from dir "/usr/local/share/"
+Trying to load translation file from dir "/usr/share/"
+Trying to load translation file from dir "/usr/share"
+Trying to load translation file from dir "/usr/share/qtermwidget5/translations"
+default KB_LAYOUT_DIR:  "/usr/share/qtermwidget5/kb-layouts"
+loadAllColorSchemes
+Using a variable-width font in the terminal.  This may cause performance degradation and display/alignment errors.
+Shell program: "/bin/bash"
+("/bin/bash")
+Using a variable-width font in the terminal.  This may cause performance degradation and display/alignment errors.
+Using a variable-width font in the terminal.  This may cause performance degradation and display/alignment errors.
+Using a variable-width font in the terminal.  This may cause performance degradation and display/alignment errors.
+Using a variable-width font in the terminal.  This may cause performance degradation and display/alignment errors.
+Using a variable-width font in the terminal.  This may cause performance degradation and display/alignment errors.
+Using a variable-width font in the terminal.  This may cause performance degradation and display/alignment errors.
+Using a variable-width font in the terminal.  This may cause performance degradation and display/alignment errors.
+Properties destructor called
+
+(xfce4-keyboard-settings:1816): Gtk-CRITICAL **: 12:47:24.600: gtk_widget_grab_default: assertion 'gtk_widget_get_can_default (widget)' failed
+Sandbox: seccomp sandbox violation: pid 1883, tid 1883, syscall 315, args 1883 139928009128192 56 0 27 139928009128192.
+Sandbox: seccomp sandbox violation: pid 1946, tid 1946, syscall 315, args 1946 139950227459328 56 0 11 139950227459328.
+Properties destructor called
+qt5ct: using qt5ct plugin
+Properties constructor called
+TRANSLATIONS_DIR: Loading translation file "qterminal_en_US.qm" from dir /usr/share/qterminal/translations
+load success: false
+qt5ct: D-Bus global menu: no
+Canot open file "/home/kali/.config/qterminal.org/qterminal_bookmarks.xml"
+Trying to load translation file from dir "/usr/share/xfce4"
+Trying to load translation file from dir "/usr/local/share/"
+Trying to load translation file from dir "/usr/share/"
+Trying to load translation file from dir "/usr/share"
+Trying to load translation file from dir "/usr/share/qtermwidget5/translations"
+default KB_LAYOUT_DIR:  "/usr/share/qtermwidget5/kb-layouts"
+loadAllColorSchemes
+Using a variable-width font in the terminal.  This may cause performance degradation and display/alignment errors.
+Shell program: "/bin/bash"
+("/bin/bash")
+Using a variable-width font in the terminal.  This may cause performance degradation and display/alignment errors.
+Properties destructor called
+Undecodable sequence: \001b(hex)[22;0;0t
+/usr/bin/kazam:32: PyGIWarning: Gtk was imported without specifying a version first. Use gi.require_version('Gtk', '3.0') before import to ensure that the right version gets loaded.
+  from gi.repository import Gtk
+WARNING Kazam - Failed to correctly detect operating system.
+
+(kazam:2057): Gtk-WARNING **: 13:02:31.171: Can't set a parent on widget which has a parent
+
+(kazam:2057): Gtk-WARNING **: 13:02:31.206: Can't set a parent on widget which has a parent
+/usr/lib/python3/dist-packages/kazam/backend/prefs.py:342: PyGIWarning: Gst was imported without specifying a version first. Use gi.require_version('Gst', '1.0') before import to ensure that the right version gets loaded.
+  from gi.repository import Gst
+/usr/lib/python3/dist-packages/kazam/frontend/window_area.py:30: PyGIWarning: Wnck was imported without specifying a version first. Use gi.require_version('Wnck', '3.0') before import to ensure that the right version gets loaded.
+  from gi.repository import Gtk, GObject, Gdk, Wnck, GdkX11
+/usr/lib/python3/dist-packages/kazam/frontend/indicator.py:148: PyGIWarning: AppIndicator3 was imported without specifying a version first. Use gi.require_version('AppIndicator3', '0.1') before import to ensure that the right version gets loaded.
+  from gi.repository import AppIndicator3
+/usr/lib/python3/dist-packages/kazam/frontend/indicator.py:97: PyGIWarning: Keybinder was imported without specifying a version first. Use gi.require_version('Keybinder', '3.0') before import to ensure that the right version gets loaded.
+  from gi.repository import Keybinder
+/usr/lib/python3/dist-packages/kazam/app.py:145: Warning: value "((GtkIconSize) 32)" of type 'GtkIconSize' is invalid or out of range for property 'icon-size' of type 'GtkIconSize'
+  self.builder.add_from_file(os.path.join(prefs.datadir, "ui", "kazam.ui"))
+WARNING Prefs - Unable to find any audio devices.
+
+(xfwm4:950): xfwm4-WARNING **: 13:02:33.130: Failed to retrieve cursor image!
+
+(xfwm4:950): xfwm4-WARNING **: 13:02:34.588: Failed to retrieve cursor image!
+qt5ct: using qt5ct plugin
+Properties constructor called
+TRANSLATIONS_DIR: Loading translation file "qterminal_en_US.qm" from dir /usr/share/qterminal/translations
+load success: false
+qt5ct: D-Bus global menu: no
+Canot open file "/home/kali/.config/qterminal.org/qterminal_bookmarks.xml"
+Trying to load translation file from dir "/usr/share/xfce4"
+Trying to load translation file from dir "/usr/local/share/"
+Trying to load translation file from dir "/usr/share/"
+Trying to load translation file from dir "/usr/share"
+Trying to load translation file from dir "/usr/share/qtermwidget5/translations"
+default KB_LAYOUT_DIR:  "/usr/share/qtermwidget5/kb-layouts"
+loadAllColorSchemes
+Using a variable-width font in the terminal.  This may cause performance degradation and display/alignment errors.
+Shell program: "/usr/share/kali-menu/exec-in-shell hydra -h"
+("/usr/share/kali-menu/exec-in-shell", "hydra", "-h")
+Using a variable-width font in the terminal.  This may cause performance degradation and display/alignment errors.
+
+(xfwm4:950): xfwm4-WARNING **: 13:04:57.753: Failed to retrieve cursor image!
+Properties destructor called
+
+(xfwm4:950): xfwm4-WARNING **: 13:04:58.648: Failed to retrieve cursor image!
+qt5ct: using qt5ct plugin
+Properties constructor called
+TRANSLATIONS_DIR: Loading translation file "qterminal_en_US.qm" from dir /usr/share/qterminal/translations
+load success: false
+qt5ct: D-Bus global menu: no
+Canot open file "/home/kali/.config/qterminal.org/qterminal_bookmarks.xml"
+Trying to load translation file from dir "/usr/share/xfce4"
+Trying to load translation file from dir "/usr/local/share/"
+Trying to load translation file from dir "/usr/share/"
+Trying to load translation file from dir "/usr/share"
+Trying to load translation file from dir "/usr/share/qtermwidget5/translations"
+default KB_LAYOUT_DIR:  "/usr/share/qtermwidget5/kb-layouts"
+loadAllColorSchemes
+Using a variable-width font in the terminal.  This may cause performance degradation and display/alignment errors.
+Shell program: "/bin/bash"
+("/bin/bash")
+Using a variable-width font in the terminal.  This may cause performance degradation and display/alignment errors.
+
+(xfwm4:950): xfwm4-WARNING **: 13:09:47.098: Failed to retrieve cursor image!
+
+(xfwm4:950): xfwm4-WARNING **: 13:09:47.500: Failed to retrieve cursor image!
+
+(xfwm4:950): xfwm4-WARNING **: 13:09:47.579: Failed to retrieve cursor image!
+
+(xfwm4:950): xfwm4-WARNING **: 13:09:47.714: Failed to retrieve cursor image!
+
+(xfwm4:950): xfwm4-WARNING **: 13:09:48.511: Failed to retrieve cursor image!
+
+(xfwm4:950): xfwm4-WARNING **: 13:09:48.936: Failed to retrieve cursor image!
+
+(xfwm4:950): xfwm4-WARNING **: 13:09:49.022: Failed to retrieve cursor image!
+
+(xfwm4:950): xfwm4-WARNING **: 13:09:50.511: Failed to retrieve cursor image!
+/usr/bin/kazam:32: PyGIWarning: Gtk was imported without specifying a version first. Use gi.require_version('Gtk', '3.0') before import to ensure that the right version gets loaded.
+  from gi.repository import Gtk
+WARNING Kazam - Failed to correctly detect operating system.
+qt5ct: using qt5ct plugin
+Properties constructor called
+TRANSLATIONS_DIR: Loading translation file "qterminal_en_US.qm" from dir /usr/share/qterminal/translations
+load success: false
+qt5ct: D-Bus global menu: no
+Canot open file "/home/kali/.config/qterminal.org/qterminal_bookmarks.xml"
+
+(kazam:2174): Gtk-WARNING **: 13:09:52.305: Can't set a parent on widget which has a parent
+Trying to load translation file from dir "/usr/share/xfce4"
+Trying to load translation file from dir "/usr/local/share/"
+Trying to load translation file from dir "/usr/share/"
+Trying to load translation file from dir "/usr/share"
+Trying to load translation file from dir "/usr/share/qtermwidget5/translations"
+default KB_LAYOUT_DIR:  "/usr/share/qtermwidget5/kb-layouts"
+
+(kazam:2174): Gtk-WARNING **: 13:09:52.347: Can't set a parent on widget which has a parent
+/usr/lib/python3/dist-packages/kazam/frontend/window_area.py:30: PyGIWarning: Wnck was imported without specifying a version first. Use gi.require_version('Wnck', '3.0') before import to ensure that the right version gets loaded.
+  from gi.repository import Gtk, GObject, Gdk, Wnck, GdkX11
+/usr/lib/python3/dist-packages/kazam/backend/gstreamer.py:35: PyGIWarning: Gst was imported without specifying a version first. Use gi.require_version('Gst', '1.0') before import to ensure that the right version gets loaded.
+  from gi.repository import GObject, Gst
+/usr/lib/python3/dist-packages/kazam/frontend/indicator.py:148: PyGIWarning: AppIndicator3 was imported without specifying a version first. Use gi.require_version('AppIndicator3', '0.1') before import to ensure that the right version gets loaded.
+  from gi.repository import AppIndicator3
+/usr/lib/python3/dist-packages/kazam/frontend/indicator.py:97: PyGIWarning: Keybinder was imported without specifying a version first. Use gi.require_version('Keybinder', '3.0') before import to ensure that the right version gets loaded.
+  from gi.repository import Keybinder
+/usr/lib/python3/dist-packages/kazam/app.py:145: Warning: value "((GtkIconSize) 32)" of type 'GtkIconSize' is invalid or out of range for property 'icon-size' of type 'GtkIconSize'
+  self.builder.add_from_file(os.path.join(prefs.datadir, "ui", "kazam.ui"))
+WARNING Prefs - Unable to find any audio devices.
+loadAllColorSchemes
+Using a variable-width font in the terminal.  This may cause performance degradation and display/alignment errors.
+Shell program: "/bin/bash"
+("/bin/bash")
+Using a variable-width font in the terminal.  This may cause performance degradation and display/alignment errors.
+
+(xfwm4:950): xfwm4-WARNING **: 13:09:59.701: Failed to retrieve cursor image!
+
+(xfwm4:950): xfwm4-WARNING **: 13:10:02.728: Failed to retrieve cursor image!
+
+(xfwm4:950): xfwm4-WARNING **: 13:10:06.546: Failed to retrieve cursor image!
+
+(xfwm4:950): xfwm4-WARNING **: 13:10:06.680: Failed to retrieve cursor image!
+
+(xfwm4:950): xfwm4-WARNING **: 13:10:08.367: Failed to retrieve cursor image!
+
+(xfwm4:950): xfwm4-WARNING **: 13:10:08.657: Failed to retrieve cursor image!
+qt5ct: using qt5ct plugin
+Properties constructor called
+TRANSLATIONS_DIR: Loading translation file "qterminal_en_US.qm" from dir /usr/share/qterminal/translations
+load success: false
+qt5ct: D-Bus global menu: no
+Canot open file "/home/kali/.config/qterminal.org/qterminal_bookmarks.xml"
+Trying to load translation file from dir "/usr/share/xfce4"
+Trying to load translation file from dir "/usr/local/share/"
+Trying to load translation file from dir "/usr/share/"
+Trying to load translation file from dir "/usr/share"
+Trying to load translation file from dir "/usr/share/qtermwidget5/translations"
+default KB_LAYOUT_DIR:  "/usr/share/qtermwidget5/kb-layouts"
+loadAllColorSchemes
+Using a variable-width font in the terminal.  This may cause performance degradation and display/alignment errors.
+Shell program: "/bin/bash"
+("/bin/bash")
+Using a variable-width font in the terminal.  This may cause performance degradation and display/alignment errors.
+
+(xfwm4:950): xfwm4-WARNING **: 13:13:58.098: Failed to retrieve cursor image!
+
+(xfwm4:950): xfwm4-WARNING **: 13:13:59.337: Failed to retrieve cursor image!
+
+(xfwm4:950): xfwm4-WARNING **: 13:18:32.461: Failed to retrieve cursor image!
+
+(xfwm4:950): xfwm4-WARNING **: 13:18:33.347: Failed to retrieve cursor image!
+Properties destructor called
+
+(xfwm4:950): xfwm4-WARNING **: 13:18:34.303: Failed to retrieve cursor image!
+
+(xfwm4:950): xfwm4-WARNING **: 13:18:35.413: Failed to retrieve cursor image!
+Properties destructor called
+
+(xfwm4:950): xfwm4-WARNING **: 13:18:37.331: Failed to retrieve cursor image!
+qt5ct: using qt5ct plugin
+Properties constructor called
+TRANSLATIONS_DIR: Loading translation file "qterminal_en_US.qm" from dir /usr/share/qterminal/translations
+load success: false
+qt5ct: D-Bus global menu: no
+Canot open file "/home/kali/.config/qterminal.org/qterminal_bookmarks.xml"
+Trying to load translation file from dir "/usr/share/xfce4"
+Trying to load translation file from dir "/usr/local/share/"
+Trying to load translation file from dir "/usr/share/"
+Trying to load translation file from dir "/usr/share"
+Trying to load translation file from dir "/usr/share/qtermwidget5/translations"
+default KB_LAYOUT_DIR:  "/usr/share/qtermwidget5/kb-layouts"
+loadAllColorSchemes
+Using a variable-width font in the terminal.  This may cause performance degradation and display/alignment errors.
+Shell program: "/bin/bash"
+("/bin/bash")
+Using a variable-width font in the terminal.  This may cause performance degradation and display/alignment errors.
+
+(xfwm4:950): xfwm4-WARNING **: 13:20:11.618: Failed to retrieve cursor image!
+
+(xfwm4:950): xfwm4-WARNING **: 13:20:13.472: Failed to retrieve cursor image!
+
+(xfwm4:950): xfwm4-WARNING **: 13:20:17.659: Failed to retrieve cursor image!
+git: 'hub' is not a git command. See 'git --help'.
+
+The most similar commands are
+	help
+	pull
+	push
+	show
+
+(xfwm4:950): xfwm4-WARNING **: 13:20:30.282: Failed to retrieve cursor image!
+
+(xfwm4:950): xfwm4-WARNING **: 13:20:31.607: Failed to retrieve cursor image!
+
+(xfwm4:950): xfwm4-WARNING **: 13:20:32.688: Failed to retrieve cursor image!
+
+(xfwm4:950): xfwm4-WARNING **: 13:20:33.156: Failed to retrieve cursor image!
+
+(xfwm4:950): xfwm4-WARNING **: 13:20:36.033: Failed to retrieve cursor image!
+
+(xfwm4:950): xfwm4-WARNING **: 13:20:38.385: Failed to retrieve cursor image!
+
+(xfwm4:950): xfwm4-WARNING **: 13:20:49.554: Failed to retrieve cursor image!
+
+(xfwm4:950): xfwm4-WARNING **: 13:20:50.659: Failed to retrieve cursor image!
+
+(xfwm4:950): xfwm4-WARNING **: 13:20:52.006: Failed to retrieve cursor image!
+
+(xfwm4:950): xfwm4-WARNING **: 13:20:58.575: Failed to retrieve cursor image!
+
+(xfwm4:950): xfwm4-WARNING **: 13:20:59.930: Failed to retrieve cursor image!
+
+(xfwm4:950): xfwm4-WARNING **: 13:21:00.733: Failed to retrieve cursor image!
+
+(xfwm4:950): xfwm4-WARNING **: 13:21:00.734: Failed to retrieve cursor image!
+
+(xfwm4:950): xfwm4-WARNING **: 13:21:05.254: Failed to retrieve cursor image!
+
+(xfwm4:950): xfwm4-WARNING **: 13:21:05.255: Failed to retrieve cursor image!
+
+(xfwm4:950): xfwm4-WARNING **: 13:21:07.043: Failed to retrieve cursor image!
+
+(xfwm4:950): xfwm4-WARNING **: 13:21:07.045: Failed to retrieve cursor image!
+
+(xfwm4:950): xfwm4-WARNING **: 13:21:08.023: Failed to retrieve cursor image!
+
+(xfwm4:950): xfwm4-WARNING **: 13:21:12.179: Failed to retrieve cursor image!
+
+(xfwm4:950): xfwm4-WARNING **: 13:21:22.609: Failed to retrieve cursor image!
+
+(xfwm4:950): xfwm4-WARNING **: 13:21:22.611: Failed to retrieve cursor image!
+
+(xfwm4:950): xfwm4-WARNING **: 13:21:27.315: Failed to retrieve cursor image!
+
+(xfwm4:950): xfwm4-WARNING **: 13:21:27.959: Failed to retrieve cursor image!
+
+(xfwm4:950): xfwm4-WARNING **: 13:21:28.562: Failed to retrieve cursor image!
+
+(xfwm4:950): xfwm4-WARNING **: 13:21:30.313: Failed to retrieve cursor image!
+
+(xfwm4:950): xfwm4-WARNING **: 13:21:31.476: Failed to retrieve cursor image!
+
+(xfwm4:950): xfwm4-WARNING **: 13:21:31.477: Failed to retrieve cursor image!
+
+(xfwm4:950): xfwm4-WARNING **: 13:21:32.495: Failed to retrieve cursor image!
+
+(xfwm4:950): xfwm4-WARNING **: 13:21:32.699: Failed to retrieve cursor image!
+
+(xfwm4:950): xfwm4-WARNING **: 13:21:34.425: Failed to retrieve cursor image!
+
+(xfwm4:950): xfwm4-WARNING **: 13:21:46.696: Failed to retrieve cursor image!
+
+(xfwm4:950): xfwm4-WARNING **: 13:21:47.088: Failed to retrieve cursor image!
+
+(xfwm4:950): xfwm4-WARNING **: 13:21:56.877: Failed to retrieve cursor image!
+
+(xfwm4:950): xfwm4-WARNING **: 13:21:59.372: Failed to retrieve cursor image!
+
+(xfwm4:950): xfwm4-WARNING **: 13:22:01.868: Failed to retrieve cursor image!
+
+(xfwm4:950): xfwm4-WARNING **: 13:22:01.870: Failed to retrieve cursor image!
+
+(xfwm4:950): xfwm4-WARNING **: 13:22:02.732: Failed to retrieve cursor image!
+
+(xfwm4:950): xfwm4-WARNING **: 13:22:03.717: Failed to retrieve cursor image!
+
+(xfwm4:950): xfwm4-WARNING **: 13:22:04.352: Failed to retrieve cursor image!
+
+(xfwm4:950): xfwm4-WARNING **: 13:22:04.353: Failed to retrieve cursor image!
+
+(xfwm4:950): xfwm4-WARNING **: 13:22:04.355: Failed to retrieve cursor image!
+
+(xfwm4:950): xfwm4-WARNING **: 13:22:06.428: Failed to retrieve cursor image!
+
+(xfwm4:950): xfwm4-WARNING **: 13:22:06.718: Failed to retrieve cursor image!
+
+(xfwm4:950): xfwm4-WARNING **: 13:22:09.273: Failed to retrieve cursor image!
+
+(xfwm4:950): xfwm4-WARNING **: 13:22:10.216: Failed to retrieve cursor image!
+
+(xfwm4:950): xfwm4-WARNING **: 13:22:10.671: Failed to retrieve cursor image!
+
+(xfwm4:950): xfwm4-WARNING **: 13:22:10.672: Failed to retrieve cursor image!
+
+(xfwm4:950): xfwm4-WARNING **: 13:22:15.055: Failed to retrieve cursor image!
+
+(xfwm4:950): xfwm4-WARNING **: 13:22:15.507: Failed to retrieve cursor image!
+
+(xfwm4:950): xfwm4-WARNING **: 13:22:16.600: Failed to retrieve cursor image!
+
+(xfwm4:950): xfwm4-WARNING **: 13:22:17.483: Failed to retrieve cursor image!
+
+(xfwm4:950): xfwm4-WARNING **: 13:22:25.889: Failed to retrieve cursor image!
+
+(xfwm4:950): xfwm4-WARNING **: 13:22:28.619: Failed to retrieve cursor image!
+
+(xfwm4:950): xfwm4-WARNING **: 13:22:30.684: Failed to retrieve cursor image!
+
+(xfwm4:950): xfwm4-WARNING **: 13:22:38.341: Failed to retrieve cursor image!
+
+(xfwm4:950): xfwm4-WARNING **: 13:22:38.983: Failed to retrieve cursor image!
+
+(xfwm4:950): xfwm4-WARNING **: 13:22:45.970: Failed to retrieve cursor image!
+
+(xfwm4:950): xfwm4-WARNING **: 13:22:46.250: Failed to retrieve cursor image!
